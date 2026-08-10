@@ -1,4 +1,5 @@
-# FRONTLINE — AI Customer Message Triage System
+
+# TriageIQ - Intelligent customer support triage
 
 > An AI-powered triage engine that reads raw, messy, sometimes-adversarial customer support messages and turns them into structured, explainable decisions a support team can act on without babysitting the model.
 
