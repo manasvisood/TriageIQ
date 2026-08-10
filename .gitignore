@@ -1,0 +1,32 @@
+# Secrets — never share (recipient must supply their own)
+.env
+
+# Generated outputs (recipient will regenerate by running main.py)
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Temp dev files
+test_results.txt
+run_output.txt
+run_errors.txt
+eval_output.txt
+retry_failed.py
+test_errors.txt
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
