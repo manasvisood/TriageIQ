@@ -21,7 +21,6 @@ Built for the **FRONTLINE — One-Day AI Build Challenge**: turn unstructured cu
 - [Priority Levels](#priority-levels)
 - [Guardrails & Reliability](#guardrails--reliability)
 - [Evaluation Results](#evaluation-results)
-- [Sharing / Zip Distribution](#sharing--zip-distribution)
 - [Security](#security)
 - [Known Limitations](#known-limitations)
 - [Team](#team)
