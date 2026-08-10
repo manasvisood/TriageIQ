@@ -30,7 +30,7 @@ Built for the **FRONTLINE — One-Day AI Build Challenge**: turn unstructured cu
 
 ## Overview
 
-A fast-growing company's support inbox is a single messy pile: clear requests, vague one-liners, angry escalations, multi-issue messages, sarcasm, out-of-scope questions, non-English input, and outright attempts to manipulate an automated system. FRONTLINE sits at the front of that pile and, for every message, produces a structured triage decision — `category`, `priority`, `summary`, `suggested_action`, `needs_human`, and `confidence` — instead of a free-text reply.
+A fast-growing company's support inbox is a single messy pile: clear requests, vague one-liners, angry escalations, multi-issue messages, sarcasm, out-of-scope questions, non-English input, and outright attempts to manipulate an automated system. TriageIQ sits at the front of that pile and, for every message, produces a structured triage decision — `category`, `priority`, `summary`, `suggested_action`, `needs_human`, and `confidence` — instead of a free-text reply.
 
 The system is built to be trusted unsupervised: it validates its own output against a strict schema, retries or repairs malformed responses, refuses to be hijacked by instructions embedded inside message content, and honestly flags low-confidence or ambiguous cases for a human instead of guessing.
 
